@@ -255,7 +255,7 @@ MeetSpace/
 
 ## 👩‍💻 Author
 
-**Salma Ouchne**
+**Salma Ouchne** -
 **Aicha Zeidane**
 
 ---
